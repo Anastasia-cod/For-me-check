@@ -1,0 +1,15 @@
+/Users/anastasiyazayats/Desktop/C# Course Homework/For-me-check/For me/For me/bin/Debug/net6.0/For me
+/Users/anastasiyazayats/Desktop/C# Course Homework/For-me-check/For me/For me/bin/Debug/net6.0/For me.deps.json
+/Users/anastasiyazayats/Desktop/C# Course Homework/For-me-check/For me/For me/bin/Debug/net6.0/For me.runtimeconfig.json
+/Users/anastasiyazayats/Desktop/C# Course Homework/For-me-check/For me/For me/bin/Debug/net6.0/For me.dll
+/Users/anastasiyazayats/Desktop/C# Course Homework/For-me-check/For me/For me/bin/Debug/net6.0/For me.pdb
+/Users/anastasiyazayats/Desktop/C# Course Homework/For-me-check/For me/For me/obj/Debug/net6.0/For me.csproj.AssemblyReference.cache
+/Users/anastasiyazayats/Desktop/C# Course Homework/For-me-check/For me/For me/obj/Debug/net6.0/For me.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiyazayats/Desktop/C# Course Homework/For-me-check/For me/For me/obj/Debug/net6.0/For me.AssemblyInfoInputs.cache
+/Users/anastasiyazayats/Desktop/C# Course Homework/For-me-check/For me/For me/obj/Debug/net6.0/For me.AssemblyInfo.cs
+/Users/anastasiyazayats/Desktop/C# Course Homework/For-me-check/For me/For me/obj/Debug/net6.0/For me.csproj.CoreCompileInputs.cache
+/Users/anastasiyazayats/Desktop/C# Course Homework/For-me-check/For me/For me/obj/Debug/net6.0/For me.dll
+/Users/anastasiyazayats/Desktop/C# Course Homework/For-me-check/For me/For me/obj/Debug/net6.0/refint/For me.dll
+/Users/anastasiyazayats/Desktop/C# Course Homework/For-me-check/For me/For me/obj/Debug/net6.0/For me.pdb
+/Users/anastasiyazayats/Desktop/C# Course Homework/For-me-check/For me/For me/obj/Debug/net6.0/For me.genruntimeconfig.cache
+/Users/anastasiyazayats/Desktop/C# Course Homework/For-me-check/For me/For me/obj/Debug/net6.0/ref/For me.dll
