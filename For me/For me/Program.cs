@@ -26,6 +26,7 @@ internal class Programm
         // 7 8 9
 
         Console.WriteLine($"Test check");
+        Console.WriteLine($"Test check 2");
 
         int[,] matrix = { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
 
