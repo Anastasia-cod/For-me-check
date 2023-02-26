@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/anastasiyazayats/.nuget/packages/": {}
+    "/Users/admin/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anastasiyazayats/Desktop/C# Course Homework/For-me-check/For me/For me/For me.csproj",
+      "projectUniqueName": "/Users/admin/Desktop/C# Course Homework/For-me-check/For me/For me/For me.csproj",
       "projectName": "For me",
-      "projectPath": "/Users/anastasiyazayats/Desktop/C# Course Homework/For-me-check/For me/For me/For me.csproj",
-      "packagesPath": "/Users/anastasiyazayats/.nuget/packages/",
-      "outputPath": "/Users/anastasiyazayats/Desktop/C# Course Homework/For-me-check/For me/For me/obj/",
+      "projectPath": "/Users/admin/Desktop/C# Course Homework/For-me-check/For me/For me/For me.csproj",
+      "packagesPath": "/Users/admin/.nuget/packages/",
+      "outputPath": "/Users/admin/Desktop/C# Course Homework/For-me-check/For me/For me/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/anastasiyazayats/.nuget/NuGet/NuGet.Config"
+        "/Users/admin/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
       }
     }
   }
